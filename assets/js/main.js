@@ -10,12 +10,12 @@ const STUDENT_PROFILE = {
     {
       degree: "Marketing Digital & Expérience Utilisateur",
       school: "École Supérieure de Technologie – Dakhla",
-      years: "2023 – 2025"
+      years: "2024 – 2026"
     },
     {
       degree: "Baccalauréat en Économie",
       school: "Lycée Technique Lalla Khadija",
-      years: "2023"
+      years: "2024"
     }
   ],
   experience: {
